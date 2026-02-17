@@ -1,0 +1,2 @@
+# programowanie_systemow_informatycznych
+na zajecie
